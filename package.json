@@ -2,6 +2,11 @@
   "name": "@fetaoily/xfyun-iat-rtasr-sdk",
   "version": "1.0.0",
   "main": "dist/index.umd.js",
-  "dependencies": {
-  }
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fetaoily/xfyun-iat-rtasr-sdk.git"
+  },
+  "homepage": "https://github.com/fetaoily/xfyun-iat-rtasr-sdk#readme"
 }
