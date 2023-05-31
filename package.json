@@ -1,0 +1,7 @@
+{
+  "name": "xfyun-iat-rtasr-sdk",
+  "version": "1.0.0",
+  "main": "dist/index.umd.js",
+  "dependencies": {
+  }
+}
