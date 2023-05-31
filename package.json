@@ -4,6 +4,9 @@
   "main": "dist/index.umd.js",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fetaoily/xfyun-iat-rtasr-sdk.git"
