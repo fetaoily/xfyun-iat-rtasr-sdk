@@ -1,6 +1,6 @@
 {
   "name": "@fetaoily/xfyun-iat-rtasr-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.umd.js",
   "license": "MIT",
   "private": false,
